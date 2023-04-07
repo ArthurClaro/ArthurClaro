@@ -12,10 +12,9 @@
   
   <p align="center">
     Já vem conhecer meus Projetos ou entre em contato 😉️ Não deixe de ver meu Portifolio. 
-    Não é a linguagem de programação que define o programador, mas sim sua lógica.
   </p>
     <p align="center">
-    Não é a linguagem de programação que define o programador, mas sim sua lógica.
+ <em>&#8220;Não é a linguagem de programação que define o programador, mas sim sua lógica.&#8220;</em>
 
 
 </div>
@@ -45,7 +44,7 @@
 </div>
 
 <div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+  
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
