@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Opaaa, bão? me chamo  
+    Opaaa, Tudo bem? me chamo  
     <a href="https://www.linkedin.com/in/arthur-claro-dev/" target="_blank"> Arthur Claro 🥶</a>
   </h1>
   
