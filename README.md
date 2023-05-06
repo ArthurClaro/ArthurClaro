@@ -7,6 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurClaro&layout=compact&hide_border=true&title_color=00ffdd&text_color=00ffdd&bg_color=000000" />
 </div>
 
+<h1 align="center">
+    <a color='#00ffdd' href="arthurclaro.github.io/Portfolio-/" target="_blank"> Link for My Potfolio</a>
+</h1> 
+
+  
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurClaro&theme=gotham)
 
 
