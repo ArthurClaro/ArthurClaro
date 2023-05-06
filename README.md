@@ -8,7 +8,7 @@
 </div>
 
 <h2 align="center">
-    <a href="arthurclaro.github.io/Portfolio-/" target="_blank"> Link for My Potfolio</a>
+  <em><a href="arthurclaro.github.io/Portfolio-/" target="_blank"> Link for My Potfolio !</a></em>
 </h2> 
 
   
