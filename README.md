@@ -11,7 +11,7 @@
   <em><a href="https://arthurclaro.github.io/Portfolio-/" target="_blank"> Link for My Potfolio !</a></em>
 </h2> 
 
-  
+ 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurClaro&theme=gotham)
 
 
