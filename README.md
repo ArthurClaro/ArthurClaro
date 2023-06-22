@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffdd&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1049e6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffdd&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+!;My+name+is+Arthur+Claro;I'm+20+years+old;I+am+Front-End+programmer;In+the+process+of+becoming+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1049e6&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+!;My+name+is+Arthur+Claro;I'm+20+years+old;I+am+Front-End+programmer;In+the+process+of+becoming+Fullstack)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurClaro&show_icons=true&count_private=true&hide_border=true&title_color=00ffdd&icon_color=00ffdd&text_color=c9d1d9&bg_color=000000" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurClaro&layout=compact&hide_border=true&title_color=00ffdd&text_color=00ffdd&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurClaro&show_icons=true&count_private=true&hide_border=true&title_color=1049e6&icon_color=1049e6&text_color=c9d1d9&bg_color=000000" alt="" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurClaro&layout=compact&hide_border=true&title_color=1049e6&text_color=c9d1d9&bg_color=000000" />
 </div>
 
 <h2 align="center">
@@ -12,26 +12,39 @@
 </h2> 
 
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurClaro&bg_color=000000&color=00ffdd&line=00ffdd&point=00ffdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurClaro&bg_color=000000&color=1049e6&line=1049e6&point=1049e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurClaro&theme=gotham)  -->
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ArthurClaro&theme=bear&hide_border=true) -->
 
-  <div align="center">
+  <!--<div align="center">
 <br><p align="centre"><b>Profile Views</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurClaro}/count.svg" /></p> 
-<br></div>
+<br></div> -->
 
-<div align="center">
+  <div align="center">  
+  
+ ![visitor badge](https://komarev.com/ghpvc/?username=m4chado&color=1049e6)
+  
+ </div>
+
+<!-- <div align="center">
   
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
+
+
+
+ <div align="center">  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffdd&height=120&section=footer"/>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+  
+ </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1049e6&height=120&section=footer"/>
 
-
+<!-- cor anterior era: 00ffdd (aqua)  e 000000
 <!-- <div>
   <h1 align="center">
     Opaaa, Tudo bem? me chamo  
