@@ -12,9 +12,10 @@
 </h2> 
 
  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurClaro&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurClaro&bg_color=000000&color=00ffdd&line=00ffdd&point=00ffdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+  <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurClaro&theme=gotham)  -->
+  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ArthurClaro&theme=bear&hide_border=true) -->
 
   <div align="center">
 <br><p align="centre"><b>Profile Views</b></p>  
