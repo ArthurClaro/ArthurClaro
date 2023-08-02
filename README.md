@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1049e6&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+!;My+name+is+Arthur+Claro;I'm+20+years+old;I+am+Front-End+programmer;In+the+process+of+becoming+Fullstack)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurClaro&show_icons=true&count_private=true&hide_border=true&title_color=1049e6&icon_color=1049e6&text_color=c9d1d9&bg_color=000000" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arthurdw&show_icons=true&count_private=true&hide_border=true&title_color=1049e6&icon_color=1049e6&text_color=c9d1d9&bg_color=000000" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurClaro&layout=compact&hide_border=true&title_color=1049e6&text_color=c9d1d9&bg_color=000000" />
 </div>
 
@@ -12,8 +12,9 @@
 </h2> 
 
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurClaro&bg_color=000000&color=1049e6&line=1049e6&point=1049e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthurdw&bg_color=000000&color=1049e6&line=1049e6&point=1049e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- ArthurChiao , imtaotao ,arthur-lage, ArthurMaverick, arthurnunesc, paris-ci,Arthurdw,  -->
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ArthurClaro&theme=bear&hide_border=true) -->
 
   <!--<div align="center">
